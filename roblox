@@ -1,0 +1,41 @@
+<html>
+    <body>
+        <header>
+                <link rel="stylesheet"href="ameba">
+            <img src="https://static-00.iconduck.com/assets.00/games-roblox-icon-2048x2048-l2iw395r.png" width="80px" height="80px">
+
+            <nav>
+                <a href="">головна</a>
+                <a href="">Інша сторінка</a>  
+            </nav>
+        </header>
+        <h1>Факти роблоксy</h1>
+
+        <p>Roblox — це онлайн-платформа для створення ігор, де користувачі можуть створювати власні ігри та грати в ігри інших.
+<li>Запуск: Roblox був запущений у 2006 році і став популярним серед дітей і підлітків.</li>
+<li>Ігри: Платформа дозволяє створювати ігри в різних жанрах (шутери, симулятори, рольові ігри).</li>
+<li>Robux: Віртуальна валюта для покупки предметів і можливостей у грі.</li>
+<li>Мільйони користувачів: На платформі зареєстровано понад 200 мільйонів людей.</li>
+<li>Соціальна складова: Roblox дозволяє спілкуватися, створювати групи та обмінюватися подарунками.</li>
+<li>Навчання: Roblox Studio дає можливість навчитися створювати ігри та програмувати.</li>
+<li>Безпека: Існують фільтри чату та батьківський контроль для забезпечення безпеки молодших користувачів.</li></p>
+      <h2>Легендарні Розробники</h2>
+      <section class= "korm">
+                <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-8C2A2001DB56A366129ACEE6A06C98A1-Png/150/150/AvatarHeadshot/Webp/noFilter"/>
+                <a href="">Nikilis</a>
+      </section>
+      <section class= "a">
+                <img src="https://i1.sndcdn.com/avatars-DDZKdJo9hME7AhbX-MV9Tbw-t240x240.jpg"width="150px"/>
+                <a href="">LightSplash</a>
+      </section>
+      <section class= "b">
+                <img src="https://pbs.twimg.com/profile_images/937649077478707202/eJpGGFDU_400x400.jpg"width="150px">Dued1
+
+      </section>
+        <footer>
+        </footer>
+        <main>
+         
+        </main>
+    </body>
+</html>
