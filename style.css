@@ -1,1 +1,219 @@
+body {
+    font-family: sans-serif;
+    width: 1200px;
+}
 
+p {
+    text-align: center;
+    border: 5px solid black;
+    border-radius:10px;
+
+
+    
+    
+}
+
+.gallery{
+    background-color: #c9f76f;
+}
+
+ul {
+    font-size: 20px;
+}
+
+footer {
+    background-color: #ff0000;
+    padding: 10px;
+    font-size: 30px;
+    text-align: center;
+}
+
+h2{
+    background-color: lightblue;
+}
+
+header{
+    /* header */
+
+background-color: rgb(95, 98, 95);
+height: 96px;
+
+}
+nav{
+    display: flex;
+    position: absolute;
+    top: 45px;
+    left:300px;
+}
+nav a{
+    
+    padding:10px;
+    margin-right: 20px;
+    border: 5px solid rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h5 p {
+    background-color: lightblue;
+}
+
+h3 {
+    text-align: center;
+    background-color: black;
+    color: aqua;
+    border: 5px solid aqua;
+    display: flex;
+    justify-content: space-around;
+}
+
+h4 {
+    text-align: center;
+    border: 5px solid double rgb(0, 0, 0);
+    background-color: rgb(132, 236, 137) ;
+    border-radius: 20px;
+    font-family: cursive;
+    
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    border: 10px solid rgb(71, 71, 71);
+    display: flex;
+    
+}
+
+
+
+h5  {
+    font-size: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+   
+}
+
+div {
+    display: flex;
+   justify-content: center;
+   }
+
+body {
+    font-family: sans-serif;
+    width: 1200px;
+}
+
+p {
+    text-align: center;
+    border: 5px solid black;
+    border-radius:10px;
+
+
+    
+    
+}
+
+.gallery{
+    background-color: #c9f76f;
+}
+
+ul {
+    font-size: 20px;
+}
+
+footer {
+    background-color: #ff0000;
+    padding: 10px;
+    font-size: 30px;
+    text-align: center;
+}
+
+h2{
+    background-color: lightblue;
+}
+
+header{
+    /* header */
+
+background-color: rgb(95, 98, 95);
+height: 96px;
+
+}
+nav{
+    display: flex;
+    position: absolute;
+    top: 45px;
+    left:300px;
+}
+nav a{
+    
+    padding:10px;
+    margin-right: 20px;
+    border: 5px solid rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h5 p {
+    background-color: lightblue;
+}
+
+h3 {
+    text-align: center;
+    background-color: black;
+    color: aqua;
+    border: 5px solid aqua;
+    display: flex;
+    justify-content: space-around;
+}
+
+h4 {
+    text-align: center;
+    border: 5px solid double rgb(0, 0, 0);
+    background-color: rgb(132, 236, 137) ;
+    border-radius: 20px;
+    font-family: cursive;
+    
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    border: 10px solid rgb(71, 71, 71);
+    display: flex;
+    
+}
+
+
+
+h5  {
+    font-size: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+   
+}
+
+div {
+    display: flex;
+   justify-content: center;
+   }
